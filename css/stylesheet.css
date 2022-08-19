@@ -293,8 +293,8 @@ hr {
 	color: white;
 	text-align: center;
 	transition: all ease 0.3s;
-	width: 100px;
-	font-size: 10px;
+	width: 250px;
+	font-size: auto;
 	z-index: 5;
 }
 
@@ -308,7 +308,7 @@ hr {
 }
 
 .staff-team img {
-	width: 50px;
+	width: auto;
 	margin-top: 20px;
 }
 
